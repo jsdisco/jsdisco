@@ -24,7 +24,7 @@
 
 <h4>Me in a garden with a keyboard on my shoulder:</h4>
 
-<img src="img/photo.jpg" alt="me" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/jsdisco/jsdisco/master/img/photo.jpg" alt="me" width="200" height="200" />
 
 <!--
 **jsdisco/jsdisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
