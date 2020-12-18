@@ -1,6 +1,6 @@
 ### Hi, I'm Maren from 🇪🇺
 
-(she/her/dude/moron, also human linter)
+(she/her/he/it/dude/moron, also human linter)
 
 <br><br>
 <h4>Tech stack:</h4>
