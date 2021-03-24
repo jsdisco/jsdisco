@@ -1,4 +1,4 @@
-### Hi, I'm Maren from 🇪🇺
+### Hi, I'm Maren from 	&#127466;&#127482;
 
 (she/her/he/it/dude/moron, also human linter)
 
