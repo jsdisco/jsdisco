@@ -12,7 +12,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="mysql" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="mysql" width="40" height="40"/>  <img src="img/social/jetpack-compose.png" alt="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="mysql" width="40" height="40"/>
 
 <br><br><br>
 
