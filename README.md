@@ -2,6 +2,8 @@
 
 (she/her/he/it/dude/moron/human linter)
 
+#### Junior Full Stack Developer - Junior Mobile Developer
+
 <br><br>
 <h4>Tech stack:</h4>
 
